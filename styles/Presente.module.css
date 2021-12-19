@@ -1,7 +1,6 @@
 .presente {
     display: flex;
     flex-direction: column;
-
     color: #fff;
     align-items: center;
 }
@@ -25,10 +24,10 @@
     background-color: red;
 }
 
-.laco2 {
+/* .laco2 {
     position: absolute;
-    top: 40px;
+    top: 260px;
     width: 90px;
     height: 15px;
     background-color: red;
-}
+} */
